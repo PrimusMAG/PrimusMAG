@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=ODP+BNI+Transaction+Banking;Learning+Trade+Services;Minimal+%E2%9C%95+Elegant+%E2%9C%95+Fun+Playful;Building+small+things+that+make+work+easier+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Software+Engineer;Learning+Fullstack+Frontend+Backend;Minimal+%E2%9C%95+Elegant+%E2%9C%95+Fun+Playful;Building+small+things+that+make+work+easier+%F0%9F%9A%80" />
 </p>
 
 <!-- Quick badges -->
