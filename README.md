@@ -39,11 +39,34 @@ I like building clean, simple, and useful things ✨
 
 ## 🧰 Toolbox
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-1F2937?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0EA5E9?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=white"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=3776AB"/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React.js-111827?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat&logo=tailwind-css&logoColor=06B6D4"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb&logoColor=47A248"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/VMware-111827?style=flat&logo=vmware&logoColor=607078"/>
+
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/Tableau-111827?style=flat&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/MATLAB-111827?style=flat&logo=mathworks&logoColor=FF7A00"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=flat&logo=adobephotoshop&logoColor=31A8FF"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-111827?style=flat&logo=cisco&logoColor=1BA0D7"/>
+  <img src="https://img.shields.io/badge/XAMPP-111827?style=flat&logo=apache&logoColor=D22128"/>
 </p>
+
 
 ---
 
