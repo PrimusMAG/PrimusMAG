@@ -11,7 +11,7 @@
 <!-- Quick badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=primusMAG&style=flat&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/Focus-Trade%20Services-0EA5E9?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Maintaining%20and%20Developing-0EA5E9?style=flat" />
   <img src="https://img.shields.io/badge/Mood-Minimal%20%26%20Playful-A855F7?style=flat" />
 </p>
 
