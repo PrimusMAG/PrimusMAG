@@ -73,11 +73,11 @@ I like building clean, simple, and useful things ✨
 ## 📌 Pinned Picks
 <p align="center">
   <a href="https://github.com/PrimusMAG/Simple-cart-practical-task-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=primusmag&repo=Simple-cart-practical-task-project&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrimusMAG&repo=Simple-cart-practical-task-project&hide_border=true&theme=tokyonight" />
 
   </a>
   <a href="https://github.com/PrimusMAG/Portofolio-Project">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=primusmag&repo=Portofolio-Project&hide_border=true&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrimusMAG&repo=Portofolio-Project&hide_border=true&theme=tokyonight" />
   </a>
 </p>
 
