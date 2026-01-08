@@ -71,8 +71,15 @@ I like building clean, simple, and useful things ✨
 ---
 
 ## 📌 Pinned Picks
-> Pin your best repos here so your profile looks “alive” ✨  
-Go to your profile → find repositories → **Customize your pins**
+<p align="center">
+  <a href="https://github.com/PrimusMAG/Simple-cart-practical-task-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrimusMAG&repo=Simple-cart-practical-task-project&hide_border=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PrimusMAG/Portofolio-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrimusMAG&repo=Portofolio-Project&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
